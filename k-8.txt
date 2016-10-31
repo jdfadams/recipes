@@ -1,0 +1,49 @@
+Cluster 0:
+skinless
+breast
+boneless
+halv
+chicken
+Cluster 1:
+sugar
+vanilla
+extract
+white
+butter
+Cluster 2:
+garlic
+clove
+minc
+pepper
+oil
+Cluster 3:
+bake
+purpos
+flour
+soda
+egg
+Cluster 4:
+cheddar
+shred
+chees
+cream
+packag
+Cluster 5:
+pepper
+onion
+salt
+black
+ground
+Cluster 6:
+parmesan
+grate
+chees
+garlic
+pasta
+Cluster 7:
+yeast
+activ
+degre
+water
+flour
+

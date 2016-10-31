@@ -1,0 +1,111 @@
+Cluster 0:
+cinnamon
+sugar
+ground
+white
+flour
+brown
+purpos
+egg
+nutmeg
+appl
+Cluster 1:
+garlic
+clove
+pepper
+minc
+oil
+onion
+black
+oliv
+chop
+ground
+Cluster 2:
+skinless
+breast
+boneless
+halv
+chicken
+pepper
+garlic
+oil
+dri
+cut
+Cluster 3:
+cheddar
+shred
+chees
+cream
+onion
+packag
+pepper
+sour
+chop
+potato
+Cluster 4:
+chip
+chocol
+semisweet
+extract
+vanilla
+sugar
+bake
+soda
+white
+egg
+Cluster 5:
+yeast
+activ
+degre
+water
+flour
+dri
+sugar
+bread
+white
+salt
+Cluster 6:
+pepper
+onion
+salt
+chop
+black
+water
+ground
+sauc
+slice
+beef
+Cluster 7:
+mix
+packag
+cake
+pud
+whip
+instant
+cream
+frozen
+thaw
+contain
+Cluster 8:
+bake
+extract
+sugar
+vanilla
+flour
+purpos
+egg
+white
+soda
+powder
+Cluster 9:
+parmesan
+grate
+chees
+garlic
+pasta
+pepper
+oliv
+chop
+fresh
+mozzarella
+
