@@ -1,2 +1,1 @@
-# recipes
-A search for topology in the space of recipes
+This is repository was created for my application to the Data Incubator program. It is nowhere near complete.
